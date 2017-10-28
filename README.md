@@ -34,3 +34,5 @@ BME680:
 ```
 
 Finally you may want to [customise](https://home-assistant.io/docs/configuration/customizing-devices/) the look of the sensors in the Home-assistant front end. 
+
+<img src="https://github.com/robmarkcole/bme680-mqtt/blob/master/HA_view.png">
